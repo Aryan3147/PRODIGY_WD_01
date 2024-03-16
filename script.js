@@ -1,4 +1,4 @@
-/*window.addEventListener('scroll', function() {
+window.addEventListener('scroll', function() {
     var navbar = document.getElementById('navbar');
     var contentSections = document.querySelectorAll('section');
     var currentSectionId = '';
@@ -17,5 +17,5 @@
     } else {
       navbar.style.backgroundColor = '#333';
     }
-  });*/
+  });
   
